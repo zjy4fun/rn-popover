@@ -1,6 +1,6 @@
 ## react native popover component demo
 
-
+![popover demo](./popover-demo.gif)
 
 ## refs
 
